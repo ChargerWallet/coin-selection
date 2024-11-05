@@ -1,13 +1,13 @@
 import { composeTxPlan } from './transaction';
 import { signTransaction, signTx } from './signTx';
 import { dAppUtils } from './dapp';
-import { txToOneKey } from './txToOneKey';
+import { txToChargerWallet } from './txToChargerWallet';
 
-const onekeyUtils = {
+const chargerwalletUtils = {
   composeTxPlan,
   signTransaction,
   signTx,
-  txToOneKey,
+  txToChargerWallet,
 };
 
-export { onekeyUtils, dAppUtils };
+export { chargerwalletUtils, dAppUtils };

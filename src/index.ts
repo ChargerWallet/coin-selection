@@ -96,5 +96,5 @@ export const coinSelection = (
 
 export * as types from './types/types';
 export * as trezorUtils from './utils/trezor';
-export { onekeyUtils, dAppUtils } from './utils/onekey';
+export { chargerwalletUtils, dAppUtils } from './utils/chargerwallet';
 export { CoinSelectionError } from './utils/errors';

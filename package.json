@@ -1,16 +1,16 @@
 {
-  "name": "@onekeyfe/cardano-coin-selection",
+  "name": "@chargerwallet/cardano-coin-selection",
   "version": "1.0.0",
   "description": "",
   "keywords": [
     "coin selection"
   ],
   "license": "MIT",
-  "author": "OneKeyHQ",
-  "homepage": "https://github.com/OneKeyHQ/coin-selection",
+  "author": "ChargerWallet",
+  "homepage": "https://github.com/ChargerWallet/coin-selection",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneKeyHQ/coin-selection.git"
+    "url": "git+https://github.com/ChargerWallet/coin-selection.git"
   },
   "publishConfig": {
     "access": "public"

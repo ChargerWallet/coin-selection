@@ -1,6 +1,6 @@
 # coin-selection
 
-Minimal implementation of Cardano coin selection algorithms (see [CIP-2](https://cips.cardano.org/cips/cip2/)) developed solely for OneKeyHQ.
+Minimal implementation of Cardano coin selection algorithms (see [CIP-2](https://cips.cardano.org/cips/cip2/)) developed solely for ChargerWallet.
 Under the hood it leverages Cardano Serialization Lib via WASM module.
 
 ## Features
